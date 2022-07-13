@@ -12,3 +12,5 @@ Code, art, music, sounds by Agustín Pérez Burgos a.k.a Retsa Games.
 Used a bunch of images from freeimages.com and pixabay.com as the sources for the graphics.
 
 Made for the [Screamortality game jam](https://itch.io/jam/screamortality), the optional themes were "infinity" and "threshold", the game implements the infinity theme with the endless gameplay and the theme of an cybernetic hell where the human race in tortured for eternity.
+
+Also available on [Itch.io](https://retsagames.itch.io/patheticmeatsack) for web, PC, Linux and Mac devices
